@@ -23,21 +23,21 @@ You only need a modern web browser installed on your computer (e.g., Google Chro
 
 ### Installation & Execution
 
- ###Clone the Repository:
+ Clone the Repository:
    Open your terminal/command prompt and clone your fork of the repository:
    ```bash
    git clone https://github.com/mmpousda/to-do.git
 
 
-**Navigate to the Project Folder:**
+Navigate to the Project Folder:
   Bash
   cd to-do
 
-**Run the Application:**
+Run the Application:
   -Locate the index.html file inside the project directory.
   -Double-click index.html to open it directly in your default web browser.
 
- **How to Contribute:**
+ How to Contribute:
    1) Contributions are what make the open-source community an amazing place to learn, inspire, and create!
    2) Fork the Project.
    3) Create your Feature Branch (git checkout -b feature/AmazingFeature).
